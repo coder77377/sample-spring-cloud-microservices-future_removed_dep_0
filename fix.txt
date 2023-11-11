@@ -1,0 +1,10 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.springframework.cloud</groupId
+	<artifactId>spring-cloud-dependencies</artifactId
+	<version>2022.0.4</version
+	<scope>import</scope
+</dependency>
+```
